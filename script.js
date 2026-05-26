@@ -471,7 +471,8 @@ window.addEventListener("load", () => {
   }
 
   // ===== n8n / AI Integration =====
-   const WEBHOOK_URL = 'https://orange-grapes-divide.loca.lt/webhook-test/chat';
+   const WEBHOOK_URL = "https://windsor-assure-legitimate-programming.trycloudflare.com/webhook/chat";
+   // const WEBHOOK_URL = 'https://orange-grapes-divide.loca.lt/webhook-test/chat';
   async function sendToAI(message) {
     try {
       const response = await fetch(WEBHOOK_URL, {
